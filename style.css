@@ -1,5 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Philosopher:ital,wght@1,700&display=swap');
 
 
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital@1&display=swap');
+
+
+h1, h2, h3, form, nav{
+  font-family: 'Philosopher', sans-serif;
+}
+p, .btn , button{
+  font-family: 'Mulish', sans-serif;
+}
 
 
 header {
