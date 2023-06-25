@@ -4,7 +4,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Mulish:ital@1&display=swap');
 
 
-h1, h2, h3, form, nav{
+h1, h2, h3,h5, form, nav{
   font-family: 'Philosopher', sans-serif;
 }
 p, .btn , button{
@@ -55,4 +55,7 @@ header {
       font-weight: bold;
       font-size: 100px;
      
+  }#iconi{
+    font-size: 3rem;
+    justify-content: space-between;
   }
